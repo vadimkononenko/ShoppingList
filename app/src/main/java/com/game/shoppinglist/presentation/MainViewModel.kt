@@ -1,6 +1,5 @@
 package com.game.shoppinglist.presentation
 
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.game.shoppinglist.data.ShopListRepositoryImp
 import com.game.shoppinglist.domain.DeleteShopItemUseCase
